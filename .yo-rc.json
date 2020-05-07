@@ -1,0 +1,15 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "solutionName": "Tiger.Project.BasicSharePointForm",
+    "environment": "onprem",
+    "packageManager": "npm",
+    "skipFeatureDeployment": "false",
+    "isDomainIsolated": true,
+    "componentType": "webpart",
+    "framework": "react",
+    "componentName": "TigerSharePointForm",
+    "componentDescription": "This component provide intuitive form features for SharePoint.",
+    "isCreatingSolution": true,
+    "whichFolder": "subdir"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "tiger-project-basic-share-point-form",
+    "libraryId": "1f6ca196-f0b6-4389-940d-13daadf57a14",
+    "environment": "onprem",
+    "packageManager": "npm",
+    "solutionName": "Tiger.Project.BasicSharePointForm",
+    "skipFeatureDeployment": "false",
+    "componentType": "webpart",
+    "framework": "react",
+    "componentName": "TigerSharePointForm",
+    "componentDescription": "This component provide intuitive form features for SharePoint.",
+    "isCreatingSolution": true,
+    "isDomainIsolated": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/tigerSharePointForm/TigerSharePointFormWebPart.js",
+      "manifest": "./src/webparts/tigerSharePointForm/TigerSharePointFormWebPart.manifest.json",
+      "outputPath": "./dist/tiger-share-point-form-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "TigerSharePointFormWebPartStrings": "webparts/tigerSharePointForm/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tiger-project-basic-share-point-form-client-side-solution",
+    "id": "1f6ca196-f0b6-4389-940d-13daadf57a14",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": "false"
+  },
+  "paths": {
+    "zippedPackage": "solution/tiger-project-basic-share-point-form.sppkg"
+  }
+}
